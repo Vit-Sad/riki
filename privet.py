@@ -1,5 +1,4 @@
 a = 2
-g = 4
 f = a + g
 print(f)
 
